@@ -4,7 +4,7 @@ ID:CTO8DS5162
 Duration:July to August 2024
 
 **Overview of the project**
-![Screenshot 2024-07-29 131638](https://github.com/user-attachments/assets/6f04ab6b-7194-4eff-91f7-abaadda999bd)
+![figure-4](https://github.com/user-attachments/assets/8b2f6c3f-7a53-4574-9b42-b20f0cf101ee)
 ![Figure_2](https://github.com/user-attachments/assets/ec9851ad-ce19-4884-b70b-cf1c0b441f7c)
 ![Figure_3](https://github.com/user-attachments/assets/92608c97-4719-4bfd-984d-a37c3d2ab3b3)
 ![Figure_1](https://github.com/user-attachments/assets/4833a715-c005-4a7a-9b06-f0c60ca73344)
