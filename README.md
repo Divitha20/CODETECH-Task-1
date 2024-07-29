@@ -13,4 +13,14 @@ project:SALES PERFORMANCE DASHBOARD
 **Top Performing Products/Services**: Identifying the products or services that are generating the most revenue.
 **Sales by Region**: Breakdown of sales by different geographical areas.
 
+**Data Sources**
+**CRM Systems**: Salesforce, HubSpot, etc.
+**E-commerce Platforms**: Shopify, WooCommerce, etc.
+**Analytics Tools**: Google Analytics, Adobe Analytics, etc.
+
+
+**Charts and Graphs:**
+**Line Charts**: For tracking sales trends over time.
+**Bar Charts**: For comparing sales across different products, regions, or channels.
+**Pie Charts**: For showing the distribution of sales by product category or region.
 
